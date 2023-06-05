@@ -1,0 +1,5 @@
+# Ignorar archivos .class
+*.class
+
+# Ignorar archivos .swp (generados por Vim)
+*.swp
