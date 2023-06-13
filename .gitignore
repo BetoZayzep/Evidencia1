@@ -1,0 +1,30 @@
+# IntelliJ IDEA
+out/
+!.*/src/main/**/out/
+!.*/src/test/**/out/
+
+# Eclipse
+bin/
+!.*/src/main/**/bin/
+!.*/src/test/**/bin/
+
+# NetBeans
+/nbbuild/
+/dist/
+
+# Visual Studio Code
+.vscode/
+
+# Archivos de compilación
+*.class
+
+# Carpeta de dependencias
+/libs/
+
+# Archivos de configuración local
+/.idea/
+/.vscode/
+
+# Archivos de registro
+/log/
+
