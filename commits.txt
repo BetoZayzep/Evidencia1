@@ -1,3 +1,34 @@
+Commit: "Inicializar repositorio y agregar código base"
+
+Descripción: Se crea el repositorio y se agrega el código base de la aplicación.
+Commit: "Agregar clase Doctor"
+
+Descripción: Se añade la clase Doctor con sus atributos y métodos correspondientes.
+Commit: "Agregar clase Patient"
+
+Descripción: Se agrega la clase Patient con sus atributos y métodos correspondientes.
+Commit: "Agregar clase Appointment"
+
+Descripción: Se incluye la clase Appointment con sus atributos y métodos correspondientes.
+Commit: "Implementar carga de doctores desde archivo CSV"
+
+Descripción: Se implementa la funcionalidad para cargar los datos de los doctores desde un archivo CSV al iniciar la aplicación.
+Commit: "Implementar carga de pacientes desde archivo CSV"
+
+Descripción: Se implementa la funcionalidad para cargar los datos de los pacientes desde un archivo CSV al iniciar la aplicación.
+Commit: "Implementar carga de citas desde archivo CSV"
+
+Descripción: Se implementa la funcionalidad para cargar los datos de las citas desde un archivo CSV al iniciar la aplicación.
+Commit: "Implementar alta de doctores"
+
+Descripción: Se añade la funcionalidad para dar de alta a un nuevo doctor en la aplicación.
+Commit: "Implementar alta de pacientes"
+
+Descripción: Se añade la funcionalidad para dar de alta a un nuevo paciente en la aplicación.
+Commit: "Implementar creación de citas"
+
+Descripción: Se implementa la funcionalidad para crear citas en la aplicación, incluyendo la asignación de doctores y pacientes.
+
 Commit: "Añadida funcionalidad de carga de doctores desde archivo CSV"
 
 Descripción: Se implementó la funcionalidad para cargar los datos de los doctores desde un archivo CSV al iniciar la aplicación. Se utilizó la clase CSVReader de la biblioteca OpenCSV para realizar la lectura del archivo.
