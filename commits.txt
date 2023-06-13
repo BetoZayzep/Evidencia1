@@ -1,0 +1,18 @@
+Commit: "Añadida funcionalidad de carga de doctores desde archivo CSV"
+
+Descripción: Se implementó la funcionalidad para cargar los datos de los doctores desde un archivo CSV al iniciar la aplicación. Se utilizó la clase CSVReader de la biblioteca OpenCSV para realizar la lectura del archivo.
+Commit: "Añadida funcionalidad de carga de pacientes desde archivo CSV"
+
+Descripción: Se agregó la capacidad de cargar los datos de los pacientes desde un archivo CSV al iniciar la aplicación. Se utilizó la clase CSVReader de la biblioteca OpenCSV para leer el archivo.
+Commit: "Añadida funcionalidad de carga de citas desde archivo CSV"
+
+Descripción: Se implementó la funcionalidad para cargar las citas existentes desde un archivo CSV al iniciar la aplicación. Se utilizó la clase CSVReader de la biblioteca OpenCSV para realizar la lectura del archivo.
+Commit: "Añadida funcionalidad de guardado de doctores en archivo CSV"
+
+Descripción: Se implementó la capacidad de guardar los datos de los doctores en un archivo CSV al dar de alta un nuevo doctor o realizar cambios en los existentes. Se utilizó la clase CSVWriter de la biblioteca OpenCSV para escribir en el archivo.
+Commit: "Añadida funcionalidad de guardado de pacientes en archivo CSV"
+
+Descripción: Se agregó la capacidad de guardar los datos de los pacientes en un archivo CSV al dar de alta un nuevo paciente o realizar cambios en los existentes. Se utilizó la clase CSVWriter de la biblioteca OpenCSV para escribir en el archivo.
+Commit: "Añadida funcionalidad de guardado de citas en archivo CSV"
+
+Descripción: Se implementó la funcionalidad para guardar las citas creadas en un archivo CSV al crear una nueva cita o modificar una existente. Se utilizó la clase CSVWriter de la biblioteca OpenCSV para escribir en el archivo.
