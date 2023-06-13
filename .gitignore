@@ -1,5 +1,30 @@
-# Ignorar archivos .class
+# IntelliJ IDEA
+out/
+!.*/src/main/**/out/
+!.*/src/test/**/out/
+
+# Eclipse
+bin/
+!.*/src/main/**/bin/
+!.*/src/test/**/bin/
+
+# NetBeans
+/nbbuild/
+/dist/
+
+# Visual Studio Code
+.vscode/
+
+# Archivos de compilación
 *.class
 
-# Ignorar archivos .swp (generados por Vim)
-*.swp
+# Carpeta de dependencias
+/libs/
+
+# Archivos de configuración local
+/.idea/
+/.vscode/
+
+# Archivos de registro
+/log/
+
