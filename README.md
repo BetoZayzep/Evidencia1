@@ -8,7 +8,7 @@ El proyecto utiliza las siguientes tecnologías:
 
 - **Front-end:** HTML, JavaScript
 - **Back-end:** Java con Servlets
-- **Base de datos:** No se menciona una base de datos específica en el código proporcionado, por lo que asumiremos que no se usa ninguna base de datos y que los datos se almacenan temporalmente en la sesión del usuario.
+
 
 ## Estructura de archivos
 
@@ -41,17 +41,3 @@ El proyecto consta de los siguientes archivos:
 ## Uso de JSTL (JavaServer Pages Standard Tag Library)
 
 En el archivo `calculadora.html`, se utiliza JSTL para iterar sobre el historial de cálculos de IMC almacenado en la sesión y mostrar los datos en una tabla.
-
-## Notas adicionales
-
-- Es importante tener en cuenta que, según el código proporcionado, el campo de peso (`peso`) no se incluye en el formulario de registro en `Registro.jsp`, pero se utiliza en el servlet para calcular el IMC. Es posible que falte este campo en el formulario.
-
-- No se proporciona información sobre la configuración del servidor o la implementación específica del proyecto, por lo que se asume que el proyecto está destinado a ser desplegado en un contenedor de servlets compatible, como Apache Tomcat u otro servidor Java.
-
-- En cuanto a la seguridad, se debe tener en cuenta que el almacenamiento de contraseñas en texto claro no es seguro en una aplicación real. Para un proyecto real, es recomendable utilizar técnicas de almacenamiento seguro de contraseñas, como el uso de hash y salting.
-
-- Asegúrese de que las dependencias y bibliotecas necesarias (como JSTL) estén configuradas correctamente en su entorno de desarrollo y despliegue para que el proyecto funcione correctamente.
-
-## Licencia
-
-No se proporciona información sobre la licencia utilizada en el código fuente. Por lo tanto, se debe tener en cuenta que, sin una licencia explícita, el código no puede ser utilizado, modificado o distribuido sin el permiso del autor original. Se recomienda agregar una licencia adecuada al proyecto antes de compartirlo en GitHub o cualquier otro lugar público.
